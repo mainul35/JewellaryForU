@@ -1,0 +1,28 @@
+#wrapper{
+	width: 60%;
+	right: 0px;
+	min-height: 560px;	
+	margin: 0px auto;	
+	position: relative;	
+}
+#container_demo{
+	text-align:center;
+}
+#wrapper p:first-child{
+	margin-bottom:10px;
+	
+}
+#wrapper p{
+	font-size:17px;
+}
+h2{
+	font-size:25px;
+	padding:5px;
+}
+.page_link{
+	padding:10px 0px;
+}
+.page_p img{
+	height:auto;
+	width:76%;
+}

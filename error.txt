@@ -1,0 +1,7 @@
+<div style="margin-top: 6em; margin-left:auto; margin-right:auto; color:#990000; text-align:center; font-size:large; border-width:1px;
+border-color:black; background-color:#ffffee; border-style:solid; border-radius: 20px; border-collapse: collapse;
+width: 80%; -moz-border-radius: 20px; padding: 15px">
+<p>Error: Database connection failed</p>
+<p>It is possible that the database is overloaded or otherwise not running properly.</p>
+<p>The site administrator should also check that the database details have been correctly specified in config.php</p>
+</div>

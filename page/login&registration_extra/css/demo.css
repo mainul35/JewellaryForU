@@ -1,0 +1,42 @@
+            .signup-form{
+                background-color: #CCC;
+                width: 500px;
+                height: 380px;
+                border-radius: 3px;
+                position: absolute;
+                margin-top: 200px;
+                margin-left: 400px;
+            }
+
+            .form-title{
+                text-align: center;
+                font-size: 24px;
+            }
+            .form-element{
+                padding-top: 20px;
+                padding-left: 70px;
+            }
+            .login-form-table{
+                alignment-adjust: middle;
+            }
+
+            td{
+                padding: 10px;
+            }
+
+            .submit-button{
+                margin-left: 86px;
+                background-color: #218CFF;
+                border-color: #218CFF;
+                border-radius: 4px;
+                width: 125px;
+                height: 40px;
+                color: #FFF;
+                font-size: 19px;
+                font-family: unset;
+            }
+
+            .form-text-field-element{
+                width: 200px;
+                height: 30px;
+            }

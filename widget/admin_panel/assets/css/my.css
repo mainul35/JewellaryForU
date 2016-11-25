@@ -1,0 +1,18 @@
+@media(min-width:768px) {
+     #page-wrapper{
+        margin: 0 0 0 0px;
+        padding: 15px 30px;
+        
+        
+    }
+}
+.panel-body img{
+	width:70%;
+	height:50%;
+}
+.panel-default > .panel-heading{
+	background-color:#283643;
+	color:#1DB28A;
+	padding:10px 10px;
+	width:70%;
+}

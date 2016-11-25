@@ -1,0 +1,31 @@
+.panel-body{
+	padding:2px 38px;
+}
+p {
+    font-size:16px;
+    line-height:8px;
+    padding:7px 7px;
+	text-align:center;
+	
+}
+p.price{
+	text-align:center;
+	color:red;
+}
+
+.input_group{
+	position:relative;
+	display:table;
+}
+.quantity{
+	width:38%;
+	display:inline;
+}
+.panel-footer{
+	
+}
+.panel-footer a{
+	margin-left:10%;
+	padding:8px 70px;
+}
+
